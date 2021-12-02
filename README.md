@@ -3,7 +3,10 @@
 ### A React SPA without a backend
 This project presents the frontend side of a single page banking application built on following the provided user stories and with the help of the provided starter code. I have refactored its design, implemented the components, added additional validation criteria, as well as used React Context in order to share the required data amongst the components.
 
-![](https://media.giphy.com/media/kdwliJMgKobzuHCsqw/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/kdwliJMgKobzuHCsqw/giphy.gif?cid=790b76117e9e9e27fc79c5af5692d4445711e435fa9dfedb&rid=giphy.gif&ct=g"
+</p>
+
 
 ###  How it works:
 The app allows users to interact with it by completing the form on the Create Account page, submitting their information, depositing and withdrawing "money", and having all that data bundled together and displayed in one place.
