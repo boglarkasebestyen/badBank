@@ -9,11 +9,11 @@ This project presents the frontend side of a single page banking application bui
 
 
 ###  How it works:
-The app allows users to interact with it by completing the form on the Create Account page, submitting their information, depositing and withdrawing "money", and having all that data bundled together and displayed in one place.
+The app allows users to interact with it by completing the form on the Create Account page, submitting their information, depositing and withdrawing "money" on the Deposit and Withdraw page, while having all that data bundled together and displayed in one place under All Data.
 
 ## Technologies used
 
-- HTML5, CSS3, Bootstrap, React Tooltip
+- HTML5, CSS3, React Bootstrap, React Tooltip
 - Javascript, React.js (functional, with hooks)
 - deployed to AWS
 
