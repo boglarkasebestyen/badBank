@@ -20,8 +20,7 @@ The app allows users to interact with it by completing the form on the Create Ac
 
 ### Additional info
 * Background image source: [WallpaperCave](https://wallpapercave.com/w/wp6599220) 
-* <div>Home page image source: <a href="https://pixabay.com/users/megan_rexazin-6742250/">Megan Rexazin</a> from <a href="https://pixabay.com/vectors/bank-finance-money-coin-business-4859142/
-/" title="Pixabay">Pixabay</a></div>
+* <div>Home page image source: <a href="https://pixabay.com/users/megan_rexazin-6742250/">Megan Rexazin</a> from <a href="https://pixabay.com/vectors/bank-finance-money-coin-business-4859142//" title="Pixabay">Pixabay</a></div>
 
 
 
