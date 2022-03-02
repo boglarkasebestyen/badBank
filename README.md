@@ -1,6 +1,7 @@
 # Bad Bank
 
 ### A React SPA 
+
 This project is my 2nd semester final assignment via MIT xPro's Fullstack with MERN course. It demonstrates the frontend side of a single page banking application built on following the provided user stories and with the help of the provided starter code. I have refactored the code, implemented additional components, added new validation criteria, as well as used React Context in order to share the required data between the components.
 
 <p align="center">
@@ -25,7 +26,7 @@ The app allows users to interact with it by completing the form on the Create Ac
 
 
 ## Live demo
-Take a look at the project [here](https://boglarka-sebestyenbankingapplication.s3.us-west-1.amazonaws.com/index.html#/).
+Since 02.2022, I had to take the app down from AWS where it was originally deployed. New link with demo coming soon.
 
 
 
